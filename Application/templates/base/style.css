@@ -1,0 +1,105 @@
+.main{
+    margin: 10px 20px 10px 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.avater-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.container__profile-section{
+    align-items: center;
+}
+
+.profile-image {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%; 
+}
+
+.container {
+    width: 500px;
+    margin: 50px auto;
+    
+    background-color: white;
+    color: black;
+    font-weight: 400;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+}
+.card {
+    border: 3px solid black;
+    margin: 20px auto;
+    width: 600px;
+    background-color: rgb(113, 192, 130);
+    color: black;
+    font-weight: 400;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+.sub-card {
+    
+    margin: 50px auto;
+    width: 500px;
+    background-color: rgb(192, 104, 170);
+    color: black;
+    font-weight: 400;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.projects-card {
+    border: 3cm;
+    margin-bottom: 20px;
+    background-color: rgb(101, 102, 202);
+    color: black;
+    font-weight: 400;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+.skills-card {
+    border: 3cm;
+    background-color: rgb(218, 47, 181);
+    color: black;
+    font-weight: 400;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+    
+    
+}
+.card-align{
+    margin: 10px;
+    display: flex;
+    gap: 30px;
+}
+.text-alignment{
+    text-align: center;
+}
+
+
+
+.img {
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+
+
+.btn {
+    background-color: white;
+    font-size: larger;
+    border: none;
+    color: #3d84eb;
+    margin: 30px 30px;
+}
